@@ -1,0 +1,62 @@
+2020-09-16 20:33:39.579  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 2352 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:33:39.581  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:33:40.515  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 1.527 seconds (JVM running for 4.819)
+2020-09-16 20:35:09.271  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 2460 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:35:09.274  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:35:10.223  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 1.415 seconds (JVM running for 4.793)
+2020-09-16 20:35:10.635 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:35:10.657  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Criado em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:35:10.658 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:35:10.788 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:35:10.796  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Criado em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:35:10.797 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:39:32.790  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 7596 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:39:32.793  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:39:33.772  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 1.556 seconds (JVM running for 4.856)
+2020-09-16 20:39:34.192  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Criado em :C:\Users\willf\data\out\saida.txt
+2020-09-16 20:39:34.237 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:13.348  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 6860 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:43:13.349  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:43:14.665  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 1.759 seconds (JVM running for 4.826)
+2020-09-16 20:43:15.064 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:15.109 ERROR DESKTOP-HLKD4HA --- [           main] b.c.s.s.ArquivosSalvar                   : Não foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:39.817  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 10944 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:43:39.822  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-16 20:43:40.446  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.997 seconds (JVM running for 3.087)
+2020-09-16 20:43:40.456  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-16 20:43:53.404  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\teste.txt
+2020-09-16 20:43:53.416 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:53.417 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:53.418 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:43:53.418  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-16 20:44:55.120  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\teste.txt
+2020-09-16 20:44:55.123 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:44:55.167 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:44:55.245 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:44:55.246  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-16 20:45:53.065  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 10944 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:45:53.066  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-16 20:45:53.245  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.266 seconds (JVM running for 135.887)
+2020-09-16 20:45:53.250  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-16 20:45:58.533  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\teste.txt
+2020-09-16 20:45:58.534  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\teste.txt
+2020-09-16 20:45:58.536 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:45:58.537 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:45:58.538 ERROR DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.s.ArquivosSalvar                   : NÃ£o foi possivel escrever em :C:\Users\willf\data\out
+2020-09-16 20:45:58.539  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-16 20:45:58.545  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-16 20:46:14.637  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 6484 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:46:14.646  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-16 20:46:15.757  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 1.559 seconds (JVM running for 4.13)
+2020-09-16 20:46:15.772  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-16 20:46:23.065  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\teste.txt
+2020-09-16 20:46:23.079  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-16 20:47:19.442  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 8476 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:47:19.444  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:47:20.340  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 1.524 seconds (JVM running for 4.33)
+2020-09-16 20:48:04.045  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 2744 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:48:04.047  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:48:05.493  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 2.27 seconds (JVM running for 6.91)
+2020-09-16 20:49:20.383  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Starting SelecaoApplicationTests on DESKTOP-HLKD4HA with PID 6836 (started by willf in C:\Users\willf\workspace\selecao)
+2020-09-16 20:49:20.385  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : No active profile set, falling back to default profiles: default
+2020-09-16 20:49:21.675  INFO DESKTOP-HLKD4HA --- [           main] b.c.s.SelecaoApplicationTests            : Started SelecaoApplicationTests in 2.109 seconds (JVM running for 7.741)

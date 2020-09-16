@@ -1,0 +1,5 @@
+Resultado:
+Vendedores: 2
+Cliente: 2
+Venda: 10 - Valor: 1000.0
+Vendedor menos Lucrativo: Paulo 

@@ -1,0 +1,106 @@
+2020-09-15 22:01:04.376  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 840 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 22:01:04.381  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 22:01:05.146  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 1.126 seconds (JVM running for 3.388)
+2020-09-15 22:01:05.177  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:03:38.034  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:03:38.041  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:03:38.733  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 1.164 seconds (JVM running for 3.489)
+2020-09-15 23:03:38.743  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:04:18.023  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:04:18.024  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:05:53.505  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:08:12.079  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:08:12.080  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:08:12.298  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.332 seconds (JVM running for 277.055)
+2020-09-15 23:08:12.303  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:09:33.569  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:09:33.569  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:09:33.733  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.256 seconds (JVM running for 358.49)
+2020-09-15 23:09:33.737  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:10:16.650  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:10:16.650  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:10:16.811  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.256 seconds (JVM running for 401.568)
+2020-09-15 23:10:16.815  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:10:30.490  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:10:30.491  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:10:30.646  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.242 seconds (JVM running for 415.403)
+2020-09-15 23:10:30.651  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:10:42.387  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:10:42.388  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:10:42.683  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.455 seconds (JVM running for 427.44)
+2020-09-15 23:10:42.688  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:12:36.907  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:12:36.907  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:12:37.073  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.247 seconds (JVM running for 541.829)
+2020-09-15 23:12:37.078  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:12:49.761  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:12:49.762  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:12:49.932  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.263 seconds (JVM running for 554.689)
+2020-09-15 23:12:49.936  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:12:58.579  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:12:58.580  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:12:58.745  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.257 seconds (JVM running for 563.502)
+2020-09-15 23:12:58.773  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:13:07.377  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:13:07.378  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:13:07.596  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.323 seconds (JVM running for 572.352)
+2020-09-15 23:13:07.603  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:13:37.471  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:13:37.472  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:13:37.654  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.288 seconds (JVM running for 602.41)
+2020-09-15 23:13:37.659  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:13:52.335  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:13:52.336  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:13:52.498  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.246 seconds (JVM running for 617.255)
+2020-09-15 23:13:52.505  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:13:59.108  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:13:59.109  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:13:59.286  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.256 seconds (JVM running for 624.043)
+2020-09-15 23:13:59.292  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:18:41.133  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:18:41.134  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:18:41.328  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.288 seconds (JVM running for 906.085)
+2020-09-15 23:18:41.335  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:22:16.706  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:22:16.707  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:22:16.919  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.318 seconds (JVM running for 1121.676)
+2020-09-15 23:22:16.928  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:25:38.973  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 8080 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:25:38.973  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:25:39.208  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.37 seconds (JVM running for 1323.964)
+2020-09-15 23:25:39.217  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:25:55.448  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.465  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.470  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.473  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.482  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.507  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.508  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.538  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.559  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:25:55.592  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:26:57.855  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 3452 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:26:57.863  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:26:59.008  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 1.816 seconds (JVM running for 5.21)
+2020-09-15 23:26:59.026  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:27:04.519  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:27:48.376  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 3452 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:27:48.378  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:27:48.696  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.543 seconds (JVM running for 54.898)
+2020-09-15 23:27:48.703  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:28:03.688  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 3792 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:28:03.695  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:28:04.618  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 1.564 seconds (JVM running for 4.384)
+2020-09-15 23:28:04.639  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:28:55.889  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : %s: %s
+
+2020-09-15 23:28:55.902  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:29:22.164  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Starting SelecaoApplication on DESKTOP-HLKD4HA with PID 3792 (C:\Users\willf\workspace\selecao\target\classes started by willf in C:\Users\willf\workspace\selecao)
+2020-09-15 23:29:22.165  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : No active profile set, falling back to default profiles: default
+2020-09-15 23:29:22.436  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : Started SelecaoApplication in 0.421 seconds (JVM running for 82.201)
+2020-09-15 23:29:22.444  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : Lendo em :C:\Users\willf\data\in
+2020-09-15 23:29:28.029  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : %s: %s
+
+2020-09-15 23:29:28.030  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.l.DirectoryWatcherImpl             : ENTRY_MODIFY C:\Users\willf\data\in\data2.txt
+2020-09-15 23:29:28.032  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
+2020-09-15 23:29:28.039  INFO DESKTOP-HLKD4HA --- [  restartedMain] b.c.s.SelecaoApplication                 : mudou
