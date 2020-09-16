@@ -19,7 +19,8 @@ public class ArquivosSalvar {
 		if(Files.notExists(dir, LinkOption.NOFOLLOW_LINKS)) {
 			
 			try {
-				//Files.createDirectories(dir);
+				Files.createDirectories(dir);
+				dir = Paths.get(DiretorioWatchInter.DIRETORIO_OUT+"\\saida.txt");
 				Files.createFile(dir);
 			} catch (IOException e) {
 				logger.error("Não foi possivel escrever em :"+dir.toString());
@@ -27,7 +28,7 @@ public class ArquivosSalvar {
 			}
 			logger.info("Criado em :"+dir.toString());
 		}
-		
+		dir = Paths.get(DiretorioWatchInter.DIRETORIO_OUT+"\\saida.txt");
 		try {
 			Files.write(dir, linha.getBytes());
 		} catch (IOException e) {

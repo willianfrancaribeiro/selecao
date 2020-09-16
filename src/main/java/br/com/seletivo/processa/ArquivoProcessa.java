@@ -29,7 +29,7 @@ public class ArquivoProcessa {
 			valorTotalVendaAux = Float.MAX_VALUE;
 			ArquivosManager.flag=false;
 		}
-		try (Stream<String> stream = Files.lines(Paths.get(nomeArquivo),Charset.forName("Cp1252"))) {
+		try (Stream<String> stream = Files.lines(Paths.get(nomeArquivo))) {
 			stream.forEach(ArquivoProcessa::processaLinhas);
 			ArquivosSalvar salvar = new ArquivosSalvar();
 			salvar.gravarArquivo(montaResultado());
@@ -73,12 +73,12 @@ public class ArquivoProcessa {
 			Float valor = Float.parseFloat(dados[2]);
 			valorTotalVenda+=new Float(valor*qtd);
 			if(idVenda.equals(-1)) {
-				idVenda = new Integer(dados[0]);
+				idVenda = new Integer(result[1]);
 				valorVenda = new Float(valor*qtd);
 			}else {
 				Float f = new Float(valor*qtd);
 				if(f.compareTo(valorVenda)>0) {
-					idVenda = new Integer(dados[0]);
+					idVenda = new Integer(result[1]);
 					valorVenda = new Float(valor*qtd);
 				}
 			}
