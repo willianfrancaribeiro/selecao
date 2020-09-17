@@ -19,7 +19,7 @@ class SelecaoApplicationTests {
 		ArquivoProcessa.processaArquivos(DiretorioWatchInter.DIRETORIO_IN+"\\teste.txt");
 		assertEquals(ArquivoProcessa.getCliente(),2);
 		assertEquals(ArquivoProcessa.getVendedor(),2);
-		assertEquals(ArquivoProcessa.getIdVenda(),1);
+		assertEquals(ArquivoProcessa.getIdVenda(),10);
 	}
 	@Test
 	public void testeProcessamentoMultiplo() {
@@ -27,12 +27,12 @@ class SelecaoApplicationTests {
 		ArquivoProcessa.processaArquivos(DiretorioWatchInter.DIRETORIO_IN+"\\teste.txt");
 		assertEquals(ArquivoProcessa.getCliente(),2);
 		assertEquals(ArquivoProcessa.getVendedor(),2);
-		assertEquals(ArquivoProcessa.getIdVenda(),1);
+		assertEquals(ArquivoProcessa.getIdVenda(),10);
 		ArquivosManager.flag = true;
 		ArquivoProcessa.processaArquivos(DiretorioWatchInter.DIRETORIO_IN+"\\teste2.txt");
-		assertEquals(ArquivoProcessa.getCliente(),3);
-		assertEquals(ArquivoProcessa.getVendedor(),1);
-		assertEquals(ArquivoProcessa.getIdVenda(),5);
+		assertEquals(ArquivoProcessa.getCliente(),2);
+		assertEquals(ArquivoProcessa.getVendedor(),2);
+		assertEquals(ArquivoProcessa.getIdVenda(),10);
 	}
 
 }
